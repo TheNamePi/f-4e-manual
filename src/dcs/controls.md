@@ -120,6 +120,7 @@ To execute the cold-start sequence, binds of interest are:
 - **Bomb Button**
 - **Weapon Slew** _(4)_
 - **Pinky Switch** _(Gun, Heat, Radar, Reject)_
+- AAR Release Button
 - **CAGE Button**
 - **Nose Gear Steering / Auto Acquisition Button**
 - DSCG Mode _(Radar, Off, TV)_
@@ -135,7 +136,7 @@ To execute the cold-start sequence, binds of interest are:
 - Navigation Mode _(Next)_
 - AFCS Switch
 - ALT Hold Switch
-- AAR Release Switch
+- AAR Release Button
 
 #### Communication
 
